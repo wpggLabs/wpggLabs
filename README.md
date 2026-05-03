@@ -1,24 +1,111 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:22c55e&height=220&section=header&text=Hello%20World&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20build%20apps,%20tools,%20and%20weird%20useful%20stuff&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,100:22c55e&height=230&section=header&text=wpggLabs&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20fast.%20Shipping%20real%20apps.%20Learning%20in%20public.&descAlignY=58&descSize=18" />
 
 <div align="center">
 
-# 👋 Hey, I'm YOUR_NAME
+# 👋 Hey, I'm wpggLabs
 
-### Vibecoder • App Builder • Indie Hacker • Problem Solver
+### Indie App Builder • Mobile Developer • Vibecoder • Product Maker
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=I+build+mobile+apps;I+ship+fast;I+turn+ideas+into+products;Currently+building+QuickReceipt+and+more" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2400&pause=800&center=true&vCenter=true&width=850&lines=I+build+mobile+apps+that+solve+real+problems;React+Native+%2B+Expo+%2B+Next.js+%2B+Replit;Currently+shipping+QuickReceipt%2C+FinishDose%2C+and+MuralDesk;Small+apps.+Fast+execution.+Real+users." />
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wpgglabs)
+[![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wpgglabs@gmail.com)
+[![Website](https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://quick-receipt.com)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## ⚡ About Me
 
-- 🧠 I love building practical apps fast  
-- 📱 Working on mobile apps, SaaS ideas, and small business tools  
-- 🛠️ Tech I use: React Native, Expo, JavaScript, TypeScript, GitHub, Replit  
-- 💡 I like apps that solve real problems, not fake startup nonsense  
-- 🐱 Also open to building tools for cat memes, goth girls, drivers, and tired humans  
+I build practical apps for real people.
+
+I like simple ideas that can be shipped fast, tested quickly, and improved with real feedback.  
+My focus is mobile apps, offline-first tools, small business software, productivity apps, and useful everyday utilities.
+
+- 📱 Building mobile apps with **React Native + Expo**
+- 🌐 Building websites with **Next.js + Tailwind**
+- 🧠 Learning by shipping, not overthinking
+- 🛠️ Using tools like **Replit, GitHub, Cursor, Vercel, Cloudflare**
+- 🚀 Focused on fast MVPs, polished UI, and real-world usefulness
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧾 QuickReceipt
+
+A fast receipt maker app for drivers and small businesses.
+
+**Built for:**
+- Simple receipts
+- PDF export
+- Receipt history
+- Offline-first usage
+- Mobile-first workflow
+
+**Stack:** React Native, Expo, AsyncStorage, RevenueCat
+
+</td>
+<td width="50%">
+
+### 💊 FinishDose
+
+A clean medicine course reminder app.
+
+**Built for:**
+- Short-term medicine tracking
+- Dose reminders
+- Progress visibility
+- No account required
+- Simple health utility flow
+
+**Stack:** React Native, Expo, Local Storage
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🖥️ MuralDesk
+
+A desktop sticky board / floating workspace app.
+
+**Built for:**
+- Notes
+- Ideas
+- Visual boards
+- Quick desktop organization
+- Lightweight productivity chaos
+
+**Stack:** Electron, React, Vite
+
+</td>
+<td width="50%">
+
+### 🌐 QuickReceipt Website
+
+Landing pages and SEO pages for the QuickReceipt app.
+
+**Built for:**
+- App Store conversion
+- SEO traffic
+- Product positioning
+- Blog/content pages
+- Static deployment
+
+**Stack:** Next.js, Tailwind, Vercel, Cloudflare
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -26,70 +113,38 @@
 
 <div align="center">
 
+### Languages
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
-![React Native](https://img.shields.io/badge/React_Native-111827?style=for-the-badge&logo=react)
-![Expo](https://img.shields.io/badge/Expo-111827?style=for-the-badge&logo=expo)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github)
-![Replit](https://img.shields.io/badge/Replit-111827?style=for-the-badge&logo=replit)
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3)
+
+### Mobile & Frontend
+
+![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-0F172A?style=for-the-badge&logo=react)
+![Expo](https://img.shields.io/badge/Expo-0F172A?style=for-the-badge&logo=expo)
+![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss)
+
+### Tools
+
+![GitHub](https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github)
+![Replit](https://img.shields.io/badge/Replit-020617?style=for-the-badge&logo=replit)
+![Vercel](https://img.shields.io/badge/Vercel-020617?style=for-the-badge&logo=vercel)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-020617?style=for-the-badge&logo=cloudflare)
+![Figma](https://img.shields.io/badge/Figma-020617?style=for-the-badge&logo=figma)
 
 </div>
 
 ---
 
-## 📌 Featured Projects
+## 🧠 Builder Mindset
 
-### 🧾 QuickReceipt
-Receipt maker app for drivers and small businesses.  
-Fast receipts, history, PDF export, offline-first.
-
-### 💊 FinishDose
-Medicine course reminder app.  
-Simple, clean, no account needed.
-
-### 🖥️ MuralDesk
-A desktop sticky mural / floating board app for chaos, notes, memes, and productivity.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
-[![App Store](https://img.shields.io/badge/App_Store-111827?style=for-the-badge&logo=apple)](YOUR_APP_LINK)
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Building fast. Learning faster. Shipping anyway.
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=22c55e" />
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0f172a&height=120&section=footer" />
+```txt
+Ship first.
+Improve fast.
+Keep it useful.
+Make it clean.
+No fake startup nonsense.
