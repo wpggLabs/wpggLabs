@@ -1,79 +1,103 @@
 # wpggLabs
 
-Building useful, simple, and polished software — one project at a time.
+<p align="center">
+  <strong>Build fast. Polish hard. Ship real.</strong>
+</p>
 
-I like creating apps that solve real problems with clean design, practical features, and a focus on shipping fast.
+<p align="center">
+  Practical apps. Clean UI. Fast execution.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Mobile%20Apps-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Desktop%20Tools-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web%20Products-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Assisted-111111?style=for-the-badge" />
+</p>
 
 ---
 
-## What I Build
+## What I Do
 
-- Mobile apps
-- Desktop apps
-- Web tools
-- Productivity utilities
-- Small business tools
-- AI-assisted products
-- Automation-focused software
+I build simple, useful software with a focus on real-world problems, clean design, and fast shipping.
 
----
-
-## Current Focus
-
-- Building polished MVPs quickly
-- Improving UI/UX quality
-- Creating practical tools for everyday users
-- Learning by shipping real projects
-- Turning small ideas into usable products
+No bloated features.  
+No overcomplicated systems.  
+Just practical products that work.
 
 ---
 
 ## Projects
 
-### QuickReceipt
-A simple receipt maker for drivers and small businesses.
-
-### MuralDesk
-A desktop-style creative board for notes, links, media, and visual organization.
-
-### FinishDose
-A clean medicine course reminder app for tracking short-term medication progress.
+| Project | Description |
+|---|---|
+| **QuickReceipt** | Receipt maker for drivers and small businesses |
+| **MuralDesk** | Visual desktop board for notes, links, media, and ideas |
+| **FinishDose** | Medicine course reminder and progress tracker |
 
 ---
 
-## Tech Interests
+## Stack
 
-- React
-- React Native
-- Expo
-- JavaScript
-- TypeScript
-- Node.js
-- Electron
-- Next.js
-- UI/UX design
-- Automation
-- AI-assisted development
-
----
-
-## Build Philosophy
-
-Keep it simple.  
-Make it useful.  
-Ship fast.  
-Polish the details.  
+<p>
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React%20Native-111111?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-111111?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Electron-111111?style=for-the-badge&logo=electron&logoColor=9FEAF9" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
+</p>
 
 ---
 
-## GitHub Stats
+## Build Style
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wpggLabs&show_icons=true&theme=transparent&hide_border=true)
+Idea → MVP → Polish → Ship → Improve
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wpggLabs&layout=compact&theme=transparent&hide_border=true)
+I care about:
+
+- clean interfaces
+- fast user flows
+- simple architecture
+- useful features
+- small details
+- products that feel finished
 
 ---
 
-## Connect
+## Current Mission
 
-More projects coming soon.
+Building a small software lab of useful apps.
+
+One product at a time.  
+One shipped version at a time.  
+One better detail at a time.
+
+---
+
+## GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wpggLabs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wpggLabs&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</p>
+
+---
+
+## Philosophy
+
+> Useful beats complicated.  
+> Shipped beats perfect.  
+> Simple beats bloated.  
+> Polish makes people trust the product.
+
+---
+
+<p align="center">
+  <strong>More builds coming soon.</strong>
+</p>
