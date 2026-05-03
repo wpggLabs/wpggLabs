@@ -1,121 +1,79 @@
-```
-██╗    ██╗██████╗  ██████╗  ██████╗ ██╗      █████╗ ██████╗ ███████╗
-██║    ██║██╔══██╗██╔════╝ ██╔════╝ ██║     ██╔══██╗██╔══██╗██╔════╝
-██║ █╗ ██║██████╔╝██║  ███╗██║  ███╗██║     ███████║██████╔╝███████╗
-██║███╗██║██╔═══╝ ██║   ██║██║   ██║██║     ██╔══██║██╔══██╗╚════██║
-╚███╔███╔╝██║     ╚██████╔╝╚██████╔╝███████╗██║  ██║██████╔╝███████║
- ╚══╝╚══╝ ╚═╝      ╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═════╝ ╚══════╝
-```
+# wpggLabs
 
-<div align="center">
+Building useful, simple, and polished software — one project at a time.
 
-**` indie app lab `** &nbsp;·&nbsp; **` builder `** &nbsp;·&nbsp; **` product-first `**
-
-[![Email](https://img.shields.io/badge/wpgglabs%40gmail.com-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:wpgglabs@gmail.com)
-&nbsp;
-![Status](https://img.shields.io/badge/status-building-00ff88?style=flat-square)
-
-</div>
+I like creating apps that solve real problems with clean design, practical features, and a focus on shipping fast.
 
 ---
 
-<br>
+## What I Build
 
-```ts
-const wpggLabs = {
-  type     : "indie software studio",
-  focus    : ["mobile apps", "desktop tools", "web products"],
-  approach : "AI-assisted · product-first · ship things that matter",
-  location : "independent",
-};
-```
-
-<br>
+- Mobile apps
+- Desktop apps
+- Web tools
+- Productivity utilities
+- Small business tools
+- AI-assisted products
+- Automation-focused software
 
 ---
 
-### ◈ &nbsp;Products
+## Current Focus
 
-<br>
-
-**`QuickReceipt`** &nbsp;—&nbsp; Receipt Maker for Drivers & Small Businesses
-
-> Create clean receipts instantly. Save history, export PDFs, share anywhere.
-> No account. No friction.
-
-<br>
-
-**`FinishDose`** &nbsp;—&nbsp; Medicine Course Reminder App
-
-> Track short-term prescriptions from start to finish.
-> Simple reminders. Clear progress. Nothing more.
-
-<br>
-
-**`MuralDesk`** &nbsp;—&nbsp; Desktop Visual Workspace
-
-> A focused space for notes, boards, and ideas.
-> Think clearly. Build faster.
-
-<br>
+- Building polished MVPs quickly
+- Improving UI/UX quality
+- Creating practical tools for everyday users
+- Learning by shipping real projects
+- Turning small ideas into usable products
 
 ---
 
-### ◈ &nbsp;Stack
+## Projects
 
-<br>
+### QuickReceipt
+A simple receipt maker for drivers and small businesses.
 
-<div align="center">
+### MuralDesk
+A desktop-style creative board for notes, links, media, and visual organization.
 
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
-![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=flat-square&logo=electron&logoColor=9FEAF9)
-![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-
-</div>
-
-<br>
+### FinishDose
+A clean medicine course reminder app for tracking short-term medication progress.
 
 ---
 
-### ◈ &nbsp;Philosophy
+## Tech Interests
 
-<br>
-
-```
-  ▸  Build things people actually use
-  ▸  Ship early — improve in public
-  ▸  Simplicity is a feature, not a limitation
-  ▸  AI is a tool, intent is still yours
-  ▸  Less noise. More product.
-```
-
-<br>
-
----
-
-### ◈ &nbsp;Activity
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=wpggLabs&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=stars,issues&title_color=00ff88&icon_color=00ff88&text_color=aaaaaa&bg_color=0d1117" height="145"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wpggLabs&layout=compact&theme=github_dark&hide_border=true&title_color=00ff88&text_color=aaaaaa&bg_color=0d1117" height="145"/>
-
-</div>
-
-<br>
+- React
+- React Native
+- Expo
+- JavaScript
+- TypeScript
+- Node.js
+- Electron
+- Next.js
+- UI/UX design
+- Automation
+- AI-assisted development
 
 ---
 
-<div align="center">
+## Build Philosophy
 
-<sub>` wpggLabs · indie software · built in the open `</sub>
+Keep it simple.  
+Make it useful.  
+Ship fast.  
+Polish the details.  
 
-</div>
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wpggLabs&show_icons=true&theme=transparent&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wpggLabs&layout=compact&theme=transparent&hide_border=true)
+
+---
+
+## Connect
+
+More projects coming soon.
