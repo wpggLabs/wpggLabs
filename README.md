@@ -1,137 +1,74 @@
-# 👋 Hey, I'm wpggLabs
+# wpggLabs
 
-### 🧠 Vibe Coder · App Builder · Problem Solver
-
-I build apps fast, learn by doing, and turn random ideas into real products.  
-Currently focused on mobile apps, desktop tools, automation, and simple products that solve real problems.
-
-> I need more discipline and more money 😅
+**Indie app lab. Building mobile apps, desktop tools, and useful software.**
 
 ---
 
-## 🚀 What I'm Building
+### What We Do
 
-### 🧾 QuickReceipt
-A fast receipt maker for drivers and small businesses.  
-Create, save, share, and export professional receipts without needing an account.
-
-### 💊 FinishDose
-A simple medicine course reminder app.  
-Built for short-term medication tracking, dose reminders, and progress clarity.
-
-### 🖥️ MuralDesk
-A desktop sticky-board / visual workspace app.  
-Useful for notes, ideas, screenshots, YouTube embeds, memes, chaos, and productivity.
+wpggLabs is a small independent software studio focused on building practical, well-crafted products — mobile apps, desktop tools, and web applications. The work here is product-first: useful things, built cleanly, shipped to real users.
 
 ---
 
-## 🛠️ Tech Stack
+### Current Projects
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript)
-![HTML](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3)
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
-
-### Frameworks & Tools
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
-![React Native](https://img.shields.io/badge/React_Native-111827?style=for-the-badge&logo=react)
-![Expo](https://img.shields.io/badge/Expo-111827?style=for-the-badge&logo=expo)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs)
-![Electron](https://img.shields.io/badge/Electron-111827?style=for-the-badge&logo=electron)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss)
-
-### Builder Tools
-![Replit](https://img.shields.io/badge/Replit-111827?style=for-the-badge&logo=replit)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github)
-![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel)
-![Firebase](https://img.shields.io/badge/Firebase-111827?style=for-the-badge&logo=firebase)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-111827?style=for-the-badge&logo=googlecloud)
+| Project | Description | Status |
+|---|---|---|
+| **QuickReceipt** | Receipt maker for drivers and small businesses. Create clean receipts, save history, export PDFs, and share — no account needed. | 🔨 In Development |
+| **FinishDose** | Simple medicine course reminder app. Track short-term prescriptions, set reminders, and follow progress to completion. | 🔨 In Development |
+| **MuralDesk** | Desktop visual workspace for notes, boards, ideas, and quick organisation. A focused space to think and build. | 🔨 In Development |
 
 ---
 
-## 🎯 Current Focus
+### Build Philosophy
 
-- Shipping small apps fast
-- Making products look premium
-- Learning better coding workflows
-- Building useful tools for real people
-- Turning ideas into apps without overthinking forever
-
----
-
-## 📌 Featured Projects
-
-### 🧾 Receipt Maker — QuickReceipt
-A simple receipt generator for rideshare-style receipts and small business receipts.
-
-**Highlights**
-- Mobile-first receipt creation
-- PDF and share flows
-- Offline-first design
-- Built for fast real-world use
+- Ship things that solve a real problem
+- Keep interfaces clean and decisions deliberate
+- Favour simplicity over feature bloat
+- Build with AI assistance, stay in control of the output
+- Iterate in public, improve over time
 
 ---
 
-### 💊 FinishDose
-A clean medicine reminder app for short-term courses.
+### Tech Stack
 
-**Highlights**
-- Dose reminders
-- Progress tracking
-- No account required
-- Simple, privacy-friendly design
-
----
-
-### 🖥️ MuralDesk
-A desktop board app for notes, ideas, media, and visual organization.
-
-**Highlights**
-- Desktop app
-- Sticky notes and board items
-- YouTube embeds
-- Built for messy creative thinking
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=flat&logo=electron&logoColor=9FEAF9)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+### Currently Working On
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kurei1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kurei1&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="165" />
-</p>
+- Finishing core features for **QuickReceipt** — PDF export, receipt templates, and sharing flow
+- Building out **FinishDose** reminder logic and course tracking UI
+- Early-stage prototyping on **MuralDesk** for desktop (Electron)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kurei1&theme=tokyonight&hide_border=true&border_radius=12" />
+---
+
+### GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=wpggLabs&show_icons=true&theme=dark&hide_border=true&count_private=true&hide=stars" alt="wpggLabs GitHub Stats" height="150"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wpggLabs&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150"/>
 </p>
 
 ---
 
-## 🌱 My Builder Philosophy
+### Contact
 
-I don't wait until everything is perfect.  
-I build, test, break things, fix them, and keep moving.
+Have a question, collab idea, or just want to say hello —
 
-Good apps don't always start with perfect code.  
-Sometimes they start with obsession, chaos, and one more late-night commit.
+📧 [wpgglabs@gmail.com](mailto:wpgglabs@gmail.com)
 
 ---
 
-## 📫 Connect With Me
-
-<p>
-  <a href="https://github.com/Kurei1">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:kureibuss@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <b>Building apps. Breaking bugs. Chasing better ideas.</b>
-</p>
+<sub>Built independently. Powered by curiosity.</sub>
