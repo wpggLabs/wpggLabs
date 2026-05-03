@@ -1,74 +1,121 @@
-# wpggLabs
+```
+██╗    ██╗██████╗  ██████╗  ██████╗ ██╗      █████╗ ██████╗ ███████╗
+██║    ██║██╔══██╗██╔════╝ ██╔════╝ ██║     ██╔══██╗██╔══██╗██╔════╝
+██║ █╗ ██║██████╔╝██║  ███╗██║  ███╗██║     ███████║██████╔╝███████╗
+██║███╗██║██╔═══╝ ██║   ██║██║   ██║██║     ██╔══██║██╔══██╗╚════██║
+╚███╔███╔╝██║     ╚██████╔╝╚██████╔╝███████╗██║  ██║██████╔╝███████║
+ ╚══╝╚══╝ ╚═╝      ╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═════╝ ╚══════╝
+```
 
-**Indie app lab. Building mobile apps, desktop tools, and useful software.**
+<div align="center">
 
----
+**` indie app lab `** &nbsp;·&nbsp; **` builder `** &nbsp;·&nbsp; **` product-first `**
 
-### What We Do
+[![Email](https://img.shields.io/badge/wpgglabs%40gmail.com-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:wpgglabs@gmail.com)
+&nbsp;
+![Status](https://img.shields.io/badge/status-building-00ff88?style=flat-square)
 
-wpggLabs is a small independent software studio focused on building practical, well-crafted products — mobile apps, desktop tools, and web applications. The work here is product-first: useful things, built cleanly, shipped to real users.
-
----
-
-### Current Projects
-
-| Project | Description | Status |
-|---|---|---|
-| **QuickReceipt** | Receipt maker for drivers and small businesses. Create clean receipts, save history, export PDFs, and share — no account needed. | 🔨 In Development |
-| **FinishDose** | Simple medicine course reminder app. Track short-term prescriptions, set reminders, and follow progress to completion. | 🔨 In Development |
-| **MuralDesk** | Desktop visual workspace for notes, boards, ideas, and quick organisation. A focused space to think and build. | 🔨 In Development |
-
----
-
-### Build Philosophy
-
-- Ship things that solve a real problem
-- Keep interfaces clean and decisions deliberate
-- Favour simplicity over feature bloat
-- Build with AI assistance, stay in control of the output
-- Iterate in public, improve over time
+</div>
 
 ---
 
-### Tech Stack
+<br>
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=flat&logo=electron&logoColor=9FEAF9)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+```ts
+const wpggLabs = {
+  type     : "indie software studio",
+  focus    : ["mobile apps", "desktop tools", "web products"],
+  approach : "AI-assisted · product-first · ship things that matter",
+  location : "independent",
+};
+```
 
----
-
-### Currently Working On
-
-- Finishing core features for **QuickReceipt** — PDF export, receipt templates, and sharing flow
-- Building out **FinishDose** reminder logic and course tracking UI
-- Early-stage prototyping on **MuralDesk** for desktop (Electron)
+<br>
 
 ---
 
-### GitHub Stats
+### ◈ &nbsp;Products
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=wpggLabs&show_icons=true&theme=dark&hide_border=true&count_private=true&hide=stars" alt="wpggLabs GitHub Stats" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wpggLabs&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150"/>
-</p>
+<br>
+
+**`QuickReceipt`** &nbsp;—&nbsp; Receipt Maker for Drivers & Small Businesses
+
+> Create clean receipts instantly. Save history, export PDFs, share anywhere.
+> No account. No friction.
+
+<br>
+
+**`FinishDose`** &nbsp;—&nbsp; Medicine Course Reminder App
+
+> Track short-term prescriptions from start to finish.
+> Simple reminders. Clear progress. Nothing more.
+
+<br>
+
+**`MuralDesk`** &nbsp;—&nbsp; Desktop Visual Workspace
+
+> A focused space for notes, boards, and ideas.
+> Think clearly. Build faster.
+
+<br>
 
 ---
 
-### Contact
+### ◈ &nbsp;Stack
 
-Have a question, collab idea, or just want to say hello —
+<br>
 
-📧 [wpgglabs@gmail.com](mailto:wpgglabs@gmail.com)
+<div align="center">
+
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=flat-square&logo=electron&logoColor=9FEAF9)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+
+</div>
+
+<br>
 
 ---
 
-<sub>Built independently. Powered by curiosity.</sub>
+### ◈ &nbsp;Philosophy
+
+<br>
+
+```
+  ▸  Build things people actually use
+  ▸  Ship early — improve in public
+  ▸  Simplicity is a feature, not a limitation
+  ▸  AI is a tool, intent is still yours
+  ▸  Less noise. More product.
+```
+
+<br>
+
+---
+
+### ◈ &nbsp;Activity
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=wpggLabs&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=stars,issues&title_color=00ff88&icon_color=00ff88&text_color=aaaaaa&bg_color=0d1117" height="145"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wpggLabs&layout=compact&theme=github_dark&hide_border=true&title_color=00ff88&text_color=aaaaaa&bg_color=0d1117" height="145"/>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+<sub>` wpggLabs · indie software · built in the open `</sub>
+
+</div>
