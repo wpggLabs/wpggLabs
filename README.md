@@ -1,79 +1,79 @@
 # wpggLabs
 
 <p align="center">
-  <strong>shipping ideas → turning them into real products</strong>
+  <strong>ship fast · polish hard · build useful things</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/building-active-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/focus-products-38bdf8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/style-clean_UI-a78bfa?style=for-the-badge" />
 </p>
 
 ---
 
-## ⚙️ Lab
+## ⚙️ The Lab
 
-This is not a portfolio.
-This is an active build lab.
+This is where ideas become real products.
 
-Ideas get tested → built → refined → shipped.
-
-Some fail.
-Some stick.
-All get shipped.
+Fast builds.  
+Clean interfaces.  
+Practical features.  
+No fake complexity.
 
 ---
 
 ## 🚧 Active Builds
 
-* **QuickReceipt** — fast receipt generator for real-world use
-* **MuralDesk** — visual desktop space for thinking + organizing
-* **FinishDose** — simple, no-BS medicine reminder
+| Product | Status | What it does |
+|---|---:|---|
+| **QuickReceipt** | Shipping | Fast receipt generator for real-world use |
+| **MuralDesk** | Shipping | Visual desktop board for notes, links, media, and ideas |
+| **FinishDose** | Shipping | Simple medicine course reminder and progress tracker |
 
 ---
 
-## 🧠 How I Build
+## 🧠 Build Loop
 
 ```txt
-think → build → break → fix → polish → ship → repeat
-```
-
-* speed over hesitation
-* simple over complex
-* real use over fake features
-* polish at the end, not the excuse
-
----
-
-## 🛠️ Tools I Use
-
-```txt
-react / react-native / expo / next.js  
-typescript / javascript  
-electron / node  
-ai-assisted workflows  
+idea → prototype → break → fix → polish → ship → repeat
 ```
 
 ---
 
-## ⚡ What Matters
+## 🛠️ Stack
 
-* apps that actually get used
-* clean UI that feels intentional
-* flows that don’t waste time
-* building fast without losing control
-
----
-
-## 📊 Signal
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wpggLabs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<p>
+  <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-111111?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-111111?style=flat-square&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electron-111111?style=flat-square&logo=electron&logoColor=9FEAF9" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=5FA04E" />
 </p>
+
+---
+
+## ⚡ What I Care About
+
+- simple products people can actually use
+- clean UI that feels intentional
+- fast flows with less friction
+- practical features over feature bloat
+- shipping instead of endlessly planning
 
 ---
 
 ## 🧩 Rule
 
-> if it’s not useful, it doesn’t ship
+> Useful beats complicated.  
+> Shipped beats perfect.  
+> Polish makes people trust the product.
 
 ---
 
 <p align="center">
-  <sub>more experiments loading...</sub>
+  <sub>more builds loading...</sub>
 </p>
