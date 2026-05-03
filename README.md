@@ -1,150 +1,137 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:22c55e&height=190&section=header&text=wpggLabs&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Indie%20App%20Builder%20%E2%80%A2%20Mobile%20Developer%20%E2%80%A2%20Vibecoder&descAlignY=58&descSize=17" />
+# 👋 Hey, I'm wpggLabs
 
-<div align="center">
+### 🧠 Vibe Coder · App Builder · Problem Solver
 
-### ⚡ Building fast. Shipping real apps. Learning in public.
+I build apps fast, learn by doing, and turn random ideas into real products.  
+Currently focused on mobile apps, desktop tools, automation, and simple products that solve real problems.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2300&pause=700&center=true&vCenter=true&width=720&lines=React+Native+%2B+Expo+%2B+Next.js;QuickReceipt+%E2%80%A2+FinishDose+%E2%80%A2+MuralDesk;Small+apps.+Fast+execution.+Real+users.;I+don't+just+collect+ideas.+I+ship+them." />
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wpgglabs)
-[![Email](https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wpgglabs@gmail.com)
-[![Website](https://img.shields.io/badge/Website-020617?style=for-the-badge&logo=vercel&logoColor=white)](https://quick-receipt.com)
-[![QuickReceipt](https://img.shields.io/badge/QuickReceipt-App_Store-22C55E?style=for-the-badge&logo=apple&logoColor=020617)](https://apps.apple.com/us/app/receipt-maker-quickreceipt/id6762082896)
-
-</div>
+> I need more discipline and more money 😅
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## 👋 About
-
-I'm **wpggLabs** — an indie app builder focused on practical apps for real people.
-
-- 📱 Mobile apps with **React Native + Expo**
-- 🌐 Websites with **Next.js + Tailwind**
-- 🖥️ Desktop apps with **Electron + React**
-- 🧠 Shipping fast, improving faster
-- 🚀 Clean UI, useful flows, real-world products
-
-<br/>
-
-<b>Builder mindset:</b>
-
-<pre>
-Ship first.
-Improve fast.
-Keep it useful.
-Make it clean.
-No fake startup nonsense.
-</pre>
-
-</td>
-<td width="50%" valign="top">
-
-## 📊 Stats
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=wpgglabs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22c55e&icon_color=22c55e" />
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wpgglabs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22c55e" />
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 🚀 Featured Projects
-
-</div>
-
-<table>
-<tr>
-<td width="33%" valign="top">
+## 🚀 What I'm Building
 
 ### 🧾 QuickReceipt
-
-Fast receipt maker for drivers and small businesses.
-
-**Stack:** React Native, Expo, AsyncStorage, RevenueCat
-
-</td>
-<td width="33%" valign="top">
+A fast receipt maker for drivers and small businesses.  
+Create, save, share, and export professional receipts without needing an account.
 
 ### 💊 FinishDose
-
-Clean medicine course reminder app with no account required.
-
-**Stack:** React Native, Expo, Local Storage
-
-</td>
-<td width="33%" valign="top">
+A simple medicine course reminder app.  
+Built for short-term medication tracking, dose reminders, and progress clarity.
 
 ### 🖥️ MuralDesk
-
-Desktop sticky board for notes, ideas, memes, and organized chaos.
-
-**Stack:** Electron, React, Vite
-
-</td>
-</tr>
-</table>
+A desktop sticky-board / visual workspace app.  
+Useful for notes, ideas, screenshots, YouTube embeds, memes, chaos, and productivity.
 
 ---
 
-<div align="center">
+## 🛠️ Tech Stack
 
-## 🧰 Tech Stack
-
+### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript)
+![HTML](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
+
+### Frameworks & Tools
 ![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
 ![React Native](https://img.shields.io/badge/React_Native-111827?style=for-the-badge&logo=react)
 ![Expo](https://img.shields.io/badge/Expo-111827?style=for-the-badge&logo=expo)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js)
-![Tailwind](https://img.shields.io/badge/Tailwind-111827?style=for-the-badge&logo=tailwindcss)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs)
 ![Electron](https://img.shields.io/badge/Electron-111827?style=for-the-badge&logo=electron)
-![Vite](https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github)
-![Replit](https://img.shields.io/badge/Replit-111827?style=for-the-badge&logo=replit)
-![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-111827?style=for-the-badge&logo=cloudflare)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss)
 
-</div>
+### Builder Tools
+![Replit](https://img.shields.io/badge/Replit-111827?style=for-the-badge&logo=replit)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel)
+![Firebase](https://img.shields.io/badge/Firebase-111827?style=for-the-badge&logo=firebase)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-111827?style=for-the-badge&logo=googlecloud)
 
 ---
 
-<div align="center">
+## 🎯 Current Focus
 
-## 🔥 Current Focus
+- Shipping small apps fast
+- Making products look premium
+- Learning better coding workflows
+- Building useful tools for real people
+- Turning ideas into apps without overthinking forever
 
-| Project | Status | Focus |
-|---|---:|---|
-| 🧾 QuickReceipt | 🚀 Live | Receipts, PDFs, small business workflows |
-| 💊 FinishDose | 🧪 Building | Medicine reminders and clean UX |
-| 🖥️ MuralDesk | 🖥️ Building | Desktop sticky board productivity |
-| ⚡ New MVPs | 🔍 Exploring | Fast-build product ideas |
+---
 
-<br/>
+## 📌 Featured Projects
 
-<img src="https://streak-stats.demolab.com?user=wpgglabs&theme=tokyonight&hide_border=true&background=0D1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" />
+### 🧾 Receipt Maker — QuickReceipt
+A simple receipt generator for rideshare-style receipts and small business receipts.
 
-<br/><br/>
+**Highlights**
+- Mobile-first receipt creation
+- PDF and share flows
+- Offline-first design
+- Built for fast real-world use
 
-<img src="https://komarev.com/ghpvc/?username=wpgglabs&style=for-the-badge&color=22c55e" />
+---
 
-<br/><br/>
+### 💊 FinishDose
+A clean medicine reminder app for short-term courses.
 
-### Built with caffeine, chaos, GitHub commits, and questionable sleep.
+**Highlights**
+- Dose reminders
+- Progress tracking
+- No account required
+- Simple, privacy-friendly design
 
-<b>I don't just collect ideas. I ship them.</b>
+---
 
-</div>
+### 🖥️ MuralDesk
+A desktop board app for notes, ideas, media, and visual organization.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:0f172a,100:020617&height=110&section=footer" />
+**Highlights**
+- Desktop app
+- Sticky notes and board items
+- YouTube embeds
+- Built for messy creative thinking
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kurei1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kurei1&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kurei1&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
+
+---
+
+## 🌱 My Builder Philosophy
+
+I don't wait until everything is perfect.  
+I build, test, break things, fix them, and keep moving.
+
+Good apps don't always start with perfect code.  
+Sometimes they start with obsession, chaos, and one more late-night commit.
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://github.com/Kurei1">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:kureibuss@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>Building apps. Breaking bugs. Chasing better ideas.</b>
+</p>
