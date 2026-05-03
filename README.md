@@ -21,78 +21,130 @@
 <tr>
 <td width="50%" valign="top">
 
-## 👋 About Me
+## 👋 About
 
 I'm **wpggLabs** — an indie app builder focused on practical apps for real people.
 
 - 📱 Mobile apps with **React Native + Expo**
 - 🌐 Websites with **Next.js + Tailwind**
+- 🖥️ Desktop apps with **Electron + React**
 - 🧠 Shipping fast, improving faster
-- 🛠️ Building with **Replit, GitHub, Vercel, Cloudflare**
-- 🚀 Focused on clean UI, useful flows, and real-world products
+- 🚀 Clean UI, useful flows, real-world products
 
-```txt
+<br/>
+
+<b>Builder mindset:</b>
+
+<pre>
 Ship first.
 Improve fast.
 Keep it useful.
 Make it clean.
 No fake startup nonsense.
+</pre>
+
 </td>
 <td width="50%" valign="top">
-📊 GitHub Stats
+
+## 📊 Stats
+
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=wpgglabs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22c55e&icon_color=22c55e" />
+
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wpgglabs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22c55e" />
+
 </td>
 </tr>
 </table>
 
+---
+
 <div align="center">
-🚀 Featured Projects
+
+## 🚀 Featured Projects
+
 </div>
+
 <table>
 <tr>
 <td width="33%" valign="top">
-🧾 QuickReceipt
+
+### 🧾 QuickReceipt
+
 Fast receipt maker for drivers and small businesses.
-Stack: React Native, Expo, AsyncStorage, RevenueCat
+
+**Stack:** React Native, Expo, AsyncStorage, RevenueCat
+
 </td>
 <td width="33%" valign="top">
-💊 FinishDose
+
+### 💊 FinishDose
+
 Clean medicine course reminder app with no account required.
-Stack: React Native, Expo, Local Storage
+
+**Stack:** React Native, Expo, Local Storage
+
 </td>
 <td width="33%" valign="top">
-🖥️ MuralDesk
+
+### 🖥️ MuralDesk
+
 Desktop sticky board for notes, ideas, memes, and organized chaos.
-Stack: Electron, React, Vite
+
+**Stack:** Electron, React, Vite
+
 </td>
 </tr>
 </table>
 
+---
+
 <div align="center">
-🧰 Tech Stack
 
+## 🧰 Tech Stack
 
-
-
-
-
-
-
-
-
-
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-111827?style=for-the-badge&logo=react)
+![Expo](https://img.shields.io/badge/Expo-111827?style=for-the-badge&logo=expo)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js)
+![Tailwind](https://img.shields.io/badge/Tailwind-111827?style=for-the-badge&logo=tailwindcss)
+![Electron](https://img.shields.io/badge/Electron-111827?style=for-the-badge&logo=electron)
+![Vite](https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github)
+![Replit](https://img.shields.io/badge/Replit-111827?style=for-the-badge&logo=replit)
+![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-111827?style=for-the-badge&logo=cloudflare)
 
 </div>
 
+---
+
 <div align="center">
-🔥 Current Focus
-ProjectStatusFocus🧾 QuickReceipt🚀 LiveReceipts, PDFs, small business workflows💊 FinishDose🧪 BuildingMedicine reminders and clean UX🖥️ MuralDesk🖥️ BuildingDesktop productivity and sticky boards⚡ New MVPs🔍 ExploringFast-build product ideas
+
+## 🔥 Current Focus
+
+| Project | Status | Focus |
+|---|---:|---|
+| 🧾 QuickReceipt | 🚀 Live | Receipts, PDFs, small business workflows |
+| 💊 FinishDose | 🧪 Building | Medicine reminders and clean UX |
+| 🖥️ MuralDesk | 🖥️ Building | Desktop sticky board productivity |
+| ⚡ New MVPs | 🔍 Exploring | Fast-build product ideas |
+
 <br/>
+
 <img src="https://streak-stats.demolab.com?user=wpgglabs&theme=tokyonight&hide_border=true&background=0D1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" />
+
 <br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=wpgglabs&style=for-the-badge&color=22c55e" />
-Built with caffeine, chaos, GitHub commits, and questionable sleep.
+
+<br/><br/>
+
+### Built with caffeine, chaos, GitHub commits, and questionable sleep.
+
+<b>I don't just collect ideas. I ship them.</b>
+
 </div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:0f172a,100:020617&height=110&section=footer" />
-```
