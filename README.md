@@ -1,131 +1,139 @@
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                         wpggLabs · profile                     -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--   wpggLabs · github profile · bespoke SVG (Space Grotesk, vector paths)  -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
 
-<a href="https://github.com/wpggLabs">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:2563EB&height=200&section=header&text=wpggLabs&fontColor=ffffff&fontSize=72&fontAlignY=38&desc=building%20useful%20apps%20%C2%B7%20fast%20MVP%20%E2%86%92%20polished%20products&descAlignY=60&descSize=18&animation=fadeIn" alt="wpggLabs" />
+<a href="https://wpgglabs.is-a.dev">
+  <img src="./assets/banner.svg" width="100%" alt="wpggLabs — bootstrapper · local-first software · New York" />
 </a>
 
 <p align="center">
-  <a href="https://wpgglabs.vercel.app"><img src="https://img.shields.io/badge/Website-wpgglabs.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
-  <a href="https://twitter.com/wpggLabs"><img src="https://img.shields.io/badge/Twitter-@wpggLabs-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
-  <a href="mailto:wpgglabs@gmail.com"><img src="https://img.shields.io/badge/Email-wpgglabs@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/New%20York-🗽-1F2937?style=for-the-badge" alt="New York" />
+  <a href="https://wpgglabs.is-a.dev"><img src="https://img.shields.io/badge/wpgglabs.is--a.dev-0a0d1a?style=for-the-badge&logo=hackthebox&logoColor=22d3ee&labelColor=0a0d1a" alt="Website" /></a>
+  <a href="https://twitter.com/wpggLabs"><img src="https://img.shields.io/badge/@wpggLabs-0a0d1a?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=0a0d1a" alt="X / Twitter" /></a>
+  <a href="mailto:wpgglabs@gmail.com"><img src="https://img.shields.io/badge/wpgglabs@gmail.com-0a0d1a?style=for-the-badge&logo=gmail&logoColor=f0abfc&labelColor=0a0d1a" alt="Email" /></a>
+  <a href="https://github.com/wpggLabs?tab=repositories"><img src="https://img.shields.io/badge/repositories-0a0d1a?style=for-the-badge&logo=github&logoColor=5eead4&labelColor=0a0d1a" alt="Repositories" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wpggLabs&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=wpggLabs&style=for-the-badge&color=7c3aed&label=VISITORS&labelColor=0a0d1a" alt="Profile views" />
+  <img src="https://img.shields.io/badge/mode-bootstrapping-22d3ee?style=for-the-badge&labelColor=0a0d1a" alt="Bootstrapping" />
 </p>
 
----
+<br/>
 
-### 👋 About
+## `▚ WHOAMI //`
+
+I'm a **solo bootstrapper** in **New York** — no funding, no team, no telemetry. I design, build, and ship small, sharp software end-to-end, then polish the ones that earn it into real products. My work clusters around **local-first desktop apps**, **the browser**, and **creator / streaming tooling**.
 
 ```ts
 const wpggLabs = {
-  role:      "indie builder / full-stack",
-  based:     "New York",
-  focus:     ["local-first", "privacy-first", "no-telemetry"],
-  building:  "desktop studios · browser extensions · streaming tools",
-  approach:  "ship a fast MVP, then polish it into a real product",
-  runtimes:  ["Rust + Tauri", "Electron", "Cloudflare Workers", "React"],
-  motto:     "useful > flashy",
-};
+  role:      "bootstrapper · full-stack builder",
+  based:     "New York  ·  40.7128°N, 74.0060°W",
+  thesis:    "own the whole stack, ship it yourself, keep it local-first",
+  building:  ["desktop studios", "browser extensions", "streaming tools"],
+  values:    ["no accounts", "no cloud lock-in", "no telemetry"],
+  loop:      "fast MVP → real users → polish → product",
+  stack:     ["Rust + Tauri", "Electron", "Cloudflare Workers", "React", "TypeScript"],
+} as const;
 ```
 
-I build small, sharp tools that run **on your machine** — no accounts, no cloud lock-in, no telemetry. Most of my work lives at the intersection of **desktop apps**, **the browser**, and **creator / streaming tooling**.
+<br/>
 
----
-
-### 🚀 Featured Projects
+## `▚ SHIPPED //`
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h4>🛡️ <a href="https://github.com/wpggLabs/blockmaxxing">blockmaxxing</a></h4>
-      <p>Local-first browser extension that blocks <b>stream-level (SSAI) Twitch ads</b>. Chrome &amp; Firefox, no backend, no telemetry.</p>
+      <sub><b>local-first · zero backend</b></sub>
+      <p>Browser extension that blocks <b>stream-level (SSAI) Twitch ads</b> — the kind normal blockers can't touch. Chrome &amp; Firefox, no telemetry.</p>
       <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Manifest_V3-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
-        <img src="https://img.shields.io/badge/esbuild-FFCF00?style=flat-square&logo=esbuild&logoColor=black" />
+        <img src="https://img.shields.io/badge/TypeScript-0a0d1a?style=flat-square&logo=typescript&logoColor=3178C6" />
+        <img src="https://img.shields.io/badge/Manifest_V3-0a0d1a?style=flat-square&logo=googlechrome&logoColor=5eead4" />
+        <img src="https://img.shields.io/badge/HLS_/_esbuild-0a0d1a?style=flat-square&logo=esbuild&logoColor=FFCF00" />
       </p>
-      <a href="https://wpgglabs.github.io/blockmaxxing/">🔗 Live</a>
+      <sub><a href="https://wpgglabs.github.io/blockmaxxing/">→ live site</a></sub>
     </td>
     <td width="50%" valign="top">
       <h4>🎬 <a href="https://github.com/wpggLabs/pdf2vid">pdf2vid</a></h4>
-      <p>Desktop studio that turns <b>PDFs into narrated read-along videos</b> for YouTube &amp; TikTok — offline-capable, no accounts.</p>
+      <sub><b>Rust + Tauri · offline-capable</b></sub>
+      <p>Desktop studio that turns <b>PDFs into narrated read-along videos</b> for YouTube &amp; TikTok. Free by default, no accounts, runs on your machine.</p>
       <p>
-        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white" />
-        <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
+        <img src="https://img.shields.io/badge/Rust-0a0d1a?style=flat-square&logo=rust&logoColor=FF7A45" />
+        <img src="https://img.shields.io/badge/Tauri-0a0d1a?style=flat-square&logo=tauri&logoColor=24C8DB" />
+        <img src="https://img.shields.io/badge/FFmpeg_/_TTS-0a0d1a?style=flat-square&logo=ffmpeg&logoColor=5eead4" />
       </p>
-      <a href="https://wpgglabs.github.io/pdf2vid/">🔗 Live</a>
+      <sub><a href="https://wpgglabs.github.io/pdf2vid/">→ live site</a></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>🖼️ <a href="https://github.com/wpggLabs/muraldesk">muraldesk</a></h4>
-      <p>A <b>transparent desktop mural layer</b> — pin images, videos, links, notes &amp; folders onto an overlay that floats over your work.</p>
+      <sub><b>Electron · transparent overlay</b></sub>
+      <p>A <b>desktop mural layer</b> — pin images, videos, links, notes &amp; real folders onto a transparent canvas that floats over your work. Or run it as a PWA.</p>
       <p>
-        <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
+        <img src="https://img.shields.io/badge/Electron-0a0d1a?style=flat-square&logo=electron&logoColor=9CA3FF" />
+        <img src="https://img.shields.io/badge/React-0a0d1a?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/PWA-0a0d1a?style=flat-square&logo=pwa&logoColor=a78bfa" />
       </p>
-      <a href="https://wpgglabs.github.io/muraldesk/">🔗 Live</a>
+      <sub><a href="https://wpgglabs.github.io/muraldesk/">→ live site</a></sub>
     </td>
     <td width="50%" valign="top">
       <h4>⚡ <a href="https://github.com/wpggLabs/live-ratings">live-ratings</a></h4>
-      <p>Real-time <b>Twitch chat rating overlay</b> for streamers, running fully on Cloudflare Workers + Durable Objects.</p>
+      <sub><b>edge-native · real-time</b></sub>
+      <p>Real-time <b>Twitch chat rating overlay</b> for streamers — drop it into OBS. Runs entirely on Cloudflare Workers + Durable Objects.</p>
       <p>
-        <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-        <img src="https://img.shields.io/badge/Durable_Objects-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-        <img src="https://img.shields.io/badge/OBS_Overlay-302E31?style=flat-square&logo=obsstudio&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cloudflare_Workers-0a0d1a?style=flat-square&logo=cloudflare&logoColor=F38020" />
+        <img src="https://img.shields.io/badge/Durable_Objects-0a0d1a?style=flat-square&logo=cloudflare&logoColor=F38020" />
+        <img src="https://img.shields.io/badge/OBS_Overlay-0a0d1a?style=flat-square&logo=obsstudio&logoColor=c7cbe0" />
       </p>
-      <a href="https://live-ratings.wpgglabs.workers.dev">🔗 Live</a>
+      <sub><a href="https://live-ratings.wpgglabs.workers.dev">→ live overlay</a></sub>
     </td>
   </tr>
 </table>
 
-<p align="center"><i>…and more in <a href="https://github.com/wpggLabs?tab=repositories">the repositories tab</a> — gitsule (GitHub discovery library), nothi, and friends.</i></p>
+<sub>🔒 Plus a deep bench of <b>private builds</b> — receipt &amp; dosing tools, NYC civic-data apps, ML/clip pipelines, and more. The stats below count them all.</sub>
 
----
+<br/>
 
-### 🧰 Tech Stack
+## `▚ LANGUAGES //`
+
+<img src="./assets/langs.svg" width="100%" alt="Language breakdown across 18 public + private repos: TypeScript 71.2%, Python 16.2%, JavaScript 8.3%, Rust 3.7%, Other 0.6%" />
+
+<br/>
+
+## `▚ STACK //`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-0a0d1a?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0a0d1a" />
+  <img src="https://img.shields.io/badge/Python-0a0d1a?style=for-the-badge&logo=python&logoColor=F7C948&labelColor=0a0d1a" />
+  <img src="https://img.shields.io/badge/Rust-0a0d1a?style=for-the-badge&logo=rust&logoColor=FF7A45&labelColor=0a0d1a" />
+  <img src="https://img.shields.io/badge/React-0a0d1a?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0a0d1a" />
+  <img src="https://img.shields.io/badge/Node.js-0a0d1a?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E&labelColor=0a0d1a" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tauri-0a0d1a?style=for-the-badge&logo=tauri&logoColor=24C8DB&labelColor=0a0d1a" />
+  <img src="https://img.shields.io/badge/Electron-0a0d1a?style=for-the-badge&logo=electron&logoColor=9CA3FF&labelColor=0a0d1a" />
+  <img src="https://img.shields.io/badge/Vite-0a0d1a?style=for-the-badge&logo=vite&logoColor=646CFF&labelColor=0a0d1a" />
+  <img src="https://img.shields.io/badge/Cloudflare-0a0d1a?style=for-the-badge&logo=cloudflare&logoColor=F38020&labelColor=0a0d1a" />
+  <img src="https://img.shields.io/badge/Vercel-0a0d1a?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=0a0d1a" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0a0d1a?style=for-the-badge&logo=postgresql&logoColor=4FA3D1&labelColor=0a0d1a" />
 </p>
 
----
+<br/>
 
-### 📊 GitHub Stats
+## `▚ TELEMETRY //`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wpggLabs&show_icons=true&hide_border=true&title_color=7C3AED&icon_color=2563EB&text_color=9CA3AF&bg_color=00000000" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wpggLabs&layout=compact&hide_border=true&title_color=7C3AED&text_color=9CA3AF&bg_color=00000000" alt="top langs" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wpggLabs&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=5eead4&icon_color=a78bfa&text_color=c7cbe0&bg_color=0a0d1a&border_radius=16" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=wpggLabs&hide_border=true&background=0a0d1a&stroke=232a4a&ring=22d3ee&fire=f0abfc&currStreakLabel=5eead4&sideLabels=c7cbe0&dates=6b7194&currStreakNum=ffffff&sideNums=ffffff&border_radius=16" alt="Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wpggLabs&hide_border=true&background=00000000&stroke=9CA3AF&ring=7C3AED&fire=2563EB&currStreakLabel=7C3AED" alt="streak" />
-</p>
+<sub align="center">↑ public activity only — most of the real work lives in the private repos counted in the language chart above.</sub>
 
----
+<br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:6D28D9&height=120&section=footer&text=useful%20%3E%20flashy&fontColor=ffffff&fontSize=22&fontAlignY=75" alt="footer" />
+  <img src="https://img.shields.io/badge/useful_%3E_flashy-0a0d1a?style=for-the-badge&labelColor=0a0d1a&color=7c3aed" alt="useful > flashy" />
+  <br/><br/>
+  <sub><code>// designed &amp; shipped in New York — wordmark set in Space Grotesk, rendered as vector paths</code></sub>
 </p>
