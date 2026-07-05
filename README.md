@@ -94,7 +94,7 @@ Loop     : Fast MVP -> real users -> polish -> product
 
 <p align="center">
   <!--STATS:START-->
-`8` public repos &nbsp;·&nbsp; `+9` private builds &nbsp;·&nbsp; `1` stars &nbsp;·&nbsp; `10` languages in rotation
+<code>8</code> public repos &nbsp;·&nbsp; <code>+9</code> private builds &nbsp;·&nbsp; <code>1</code> star &nbsp;·&nbsp; <code>10</code> languages in rotation
 <!--STATS:END-->
 </p>
 
@@ -105,6 +105,6 @@ Loop     : Fast MVP -> real users -> polish -> product
 </p>
 <p align="center">
   <!--UPDATED:START-->
-<sub>`last sync: 2026-07-05 12:56 UTC` — regenerated automatically by [profile.yml](.github/workflows/profile.yml)</sub>
+<sub><code>last sync: 2026-07-05 13:03 UTC</code> — regenerated automatically by <a href=".github/workflows/profile.yml">profile.yml</a></sub>
 <!--UPDATED:END-->
 </p>

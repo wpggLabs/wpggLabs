@@ -264,10 +264,15 @@ def stack_md(d):
 
 
 def stats_md(d):
+    # NOTE: rendered inside a <p align="center"> HTML block, where GitHub does NOT
+    # parse markdown — so emit HTML (<code>), never backticks/[links]().
     pub = len([r for r in d["repos"] if not r["private"] and r["name"] != USER])
-    return (f"`{pub}` public repos &nbsp;·&nbsp; `+{d['private']}` private builds "
-            f"&nbsp;·&nbsp; `{d['stars']}` stars &nbsp;·&nbsp; "
-            f"`{len([l for l in d['lang_bytes'] if l not in MARKUP])}` languages in rotation")
+    langs = len([l for l in d["lang_bytes"] if l not in MARKUP])
+    star_word = "star" if d["stars"] == 1 else "stars"
+    return (f"<code>{pub}</code> public repos &nbsp;·&nbsp; "
+            f"<code>+{d['private']}</code> private builds &nbsp;·&nbsp; "
+            f"<code>{d['stars']}</code> {star_word} &nbsp;·&nbsp; "
+            f"<code>{langs}</code> languages in rotation")
 
 
 def splice(md, key, content):
@@ -300,7 +305,9 @@ def main():
     else:
         print("· no GH_PAT — kept committed language chart + stats (add secret to make them live)")
     stamp = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    md = splice(md, "UPDATED", f"<sub>`last sync: {stamp}` — regenerated automatically by [profile.yml](.github/workflows/profile.yml)</sub>")
+    # also inside a <p> HTML block -> use <code> and <a>, not markdown
+    md = splice(md, "UPDATED", f'<sub><code>last sync: {stamp}</code> — regenerated automatically by '
+                               f'<a href=".github/workflows/profile.yml">profile.yml</a></sub>')
     open(rp, "w", encoding="utf-8").write(md)
     print("· README sections spliced. done.")
 
