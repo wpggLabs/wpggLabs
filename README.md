@@ -60,16 +60,16 @@ Loop     : Fast MVP -> real users -> polish -> product
 <p>
   <img src="https://img.shields.io/badge/JavaScript-0c0c0c?style=flat-square&logo=javascript&logoColor=f2f2f2&labelColor=0c0c0c" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-0c0c0c?style=flat-square&logo=typescript&logoColor=f2f2f2&labelColor=0c0c0c" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-0c0c0c?style=flat-square&logo=python&logoColor=f2f2f2&labelColor=0c0c0c" alt="Python" />
   <img src="https://img.shields.io/badge/Rust-0c0c0c?style=flat-square&logo=rust&logoColor=f2f2f2&labelColor=0c0c0c" alt="Rust" />
   <img src="https://img.shields.io/badge/React-0c0c0c?style=flat-square&logo=react&logoColor=f2f2f2&labelColor=0c0c0c" alt="React" />
   <img src="https://img.shields.io/badge/esbuild-0c0c0c?style=flat-square&logo=esbuild&logoColor=f2f2f2&labelColor=0c0c0c" alt="esbuild" />
   <img src="https://img.shields.io/badge/Manifest%20V3-0c0c0c?style=flat-square&logo=googlechrome&logoColor=f2f2f2&labelColor=0c0c0c" alt="Manifest V3" />
+  <img src="https://img.shields.io/badge/Swift-0c0c0c?style=flat-square&logo=swift&logoColor=f2f2f2&labelColor=0c0c0c" alt="Swift" />
   <img src="https://img.shields.io/badge/Cloudflare%20Workers-0c0c0c?style=flat-square&logo=cloudflare&logoColor=f2f2f2&labelColor=0c0c0c" alt="Cloudflare Workers" />
   <img src="https://img.shields.io/badge/Durable%20Objects-0c0c0c?style=flat-square&logo=cloudflare&logoColor=f2f2f2&labelColor=0c0c0c" alt="Durable Objects" />
   <img src="https://img.shields.io/badge/Electron-0c0c0c?style=flat-square&logo=electron&logoColor=f2f2f2&labelColor=0c0c0c" alt="Electron" />
   <img src="https://img.shields.io/badge/PWA-0c0c0c?style=flat-square&logo=pwa&logoColor=f2f2f2&labelColor=0c0c0c" alt="PWA" />
-  <img src="https://img.shields.io/badge/Vite-0c0c0c?style=flat-square&logo=vite&logoColor=f2f2f2&labelColor=0c0c0c" alt="Vite" />
-  <img src="https://img.shields.io/badge/FFmpeg-0c0c0c?style=flat-square&logo=ffmpeg&logoColor=f2f2f2&labelColor=0c0c0c" alt="FFmpeg" />
 </p>
 <!--STACK:END-->
 
@@ -105,6 +105,6 @@ Loop     : Fast MVP -> real users -> polish -> product
 </p>
 <p align="center">
   <!--UPDATED:START-->
-<sub>`last sync: 2026-07-05 11:19 UTC` — regenerated automatically by [profile.yml](.github/workflows/profile.yml)</sub>
+<sub>`last sync: 2026-07-05 12:56 UTC` — regenerated automatically by [profile.yml](.github/workflows/profile.yml)</sub>
 <!--UPDATED:END-->
 </p>
