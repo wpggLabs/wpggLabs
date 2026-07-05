@@ -36,7 +36,7 @@ jobs:
           # GH_PAT (repo scope) folds private repos into the aggregate stats.
           # Falls back to GITHUB_TOKEN (public data only) if the secret is absent.
           GH_PAT: ${{ secrets.GH_PAT }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python build.py
 
       - name: Commit changes
