@@ -28,7 +28,9 @@ from mono import Mono
 USER = "wpggLabs"
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FONT_BOLD = os.path.join(ROOT, "assets", "fonts", "CascadiaCode-Bold.ttf")
-TOKEN = os.environ.get("GH_PAT") or os.environ.get("GH_TOKEN") or os.environ.get("GITHUB_TOKEN")
+PAT = os.environ.get("GH_PAT") or os.environ.get("GH_TOKEN")   # a *user* token (sees private repos)
+TOKEN = PAT or os.environ.get("GITHUB_TOKEN")                  # any token (auth + rate limit)
+HAVE_USER = bool(PAT)                                          # can we hit /user/repos?
 
 # ── terminal palette (black & white, one whisper of green for the live prompt) ──
 BG = "#0c0c0c"        # Windows Terminal default black
@@ -73,7 +75,7 @@ def api(path):
 def all_repos():
     repos, page = [], 1
     while True:
-        chunk = api(f"/user/repos?per_page=100&affiliation=owner&page={page}") if TOKEN \
+        chunk = api(f"/user/repos?per_page=100&affiliation=owner&page={page}") if HAVE_USER \
             else api(f"/users/{USER}/repos?per_page=100&page={page}")
         if not chunk:
             break
@@ -204,7 +206,8 @@ def langs_svg(d):
         leg.append(f'<g fill="{DIM}">{M.line(pct, 15, nx, 123)}</g>')
         lx = nx + M.cw(15) * len(pct) + 30
     seen = len([r for r in d["repos"] if r["name"] != USER])
-    title = M.line(f"PS C:\\wpggLabs> Get-Languages   # {seen} repos, public + private", 18, 40, 34)
+    scope = "public + private" if HAVE_USER else "public"
+    title = M.line(f"PS C:\\wpggLabs> Get-Languages   # {seen} repos, {scope}", 18, 40, 34)
     return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="100%" role="img" aria-label="Language breakdown">
 <defs><clipPath id="l"><rect width="{W}" height="{H}" rx="12"/></clipPath></defs>
 <g clip-path="url(#l)">
@@ -281,14 +284,21 @@ def main():
     d = gather()
     os.makedirs(os.path.join(ROOT, "assets"), exist_ok=True)
     open(os.path.join(ROOT, "assets", "banner.svg"), "w", encoding="utf-8").write(banner(d))
-    open(os.path.join(ROOT, "assets", "langs.svg"), "w", encoding="utf-8").write(langs_svg(d))
-    print("· wrote assets/banner.svg, assets/langs.svg")
+    print("· wrote assets/banner.svg")
 
     rp = os.path.join(ROOT, "README.md")
     md = open(rp, encoding="utf-8").read()
     md = splice(md, "BUILDS", builds_md(d))
     md = splice(md, "STACK", stack_md(d))
-    md = splice(md, "STATS", stats_md(d))
+    # The language chart + stat counts fold in PRIVATE repos, which only a user
+    # token (GH_PAT) can see. Without it, preserve the committed private-inclusive
+    # versions rather than downgrading them to public-only.
+    if HAVE_USER:
+        open(os.path.join(ROOT, "assets", "langs.svg"), "w", encoding="utf-8").write(langs_svg(d))
+        md = splice(md, "STATS", stats_md(d))
+        print("· refreshed language chart + stats (private included)")
+    else:
+        print("· no GH_PAT — kept committed language chart + stats (add secret to make them live)")
     stamp = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     md = splice(md, "UPDATED", f"<sub>`last sync: {stamp}` — regenerated automatically by [profile.yml](.github/workflows/profile.yml)</sub>")
     open(rp, "w", encoding="utf-8").write(md)

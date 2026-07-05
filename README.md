@@ -105,6 +105,6 @@ Loop     : Fast MVP -> real users -> polish -> product
 </p>
 <p align="center">
   <!--UPDATED:START-->
-<sub>`last sync: 2026-07-05 11:14 UTC` — regenerated automatically by [profile.yml](.github/workflows/profile.yml)</sub>
+<sub>`last sync: 2026-07-05 11:17 UTC` — regenerated automatically by [profile.yml](.github/workflows/profile.yml)</sub>
 <!--UPDATED:END-->
 </p>
