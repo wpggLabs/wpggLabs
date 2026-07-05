@@ -134,13 +134,16 @@ def banner(d):
 
     lines = [
         [("PS", PROMPT), (" C:\\wpggLabs> ", DIM), ("whoami", FG)],
-        [("bootstrapper · full-stack builder · New York", DIM)],
+        [("a guy in New York who codes instead of sleeping. no one asked.", DIM)],
         [("", FG)],
-        [("PS", PROMPT), (" C:\\wpggLabs> ", DIM), ("Get-Focus", FG)],
-        [("local-first desktop apps · browser extensions · streaming tools", DIM)],
+        [("PS", PROMPT), (" C:\\wpggLabs> ", DIM), ("Get-Job", FG)],
+        [("lol no. this is a hobby. touching grass is the side project.", DIM)],
+        [("", FG)],
+        [("PS", PROMPT), (" C:\\wpggLabs> ", DIM), ("Get-Diagnosis", FG)],
+        [("ADHD: opened 14 repos, shipped 3 · OCD: rebuilt those 3 twice", DIM)],
         [("", FG)],
         [("PS", PROMPT), (" C:\\wpggLabs> ", DIM), ("Get-Manifesto", FG)],
-        [("no accounts · no cloud lock-in · no telemetry · ship it yourself", DIM)],
+        [("i build tools for one user (me) and let you watch. you're welcome.", DIM)],
         [("", FG)],
         [("PS", PROMPT), (" C:\\wpggLabs> ", DIM)],
     ]

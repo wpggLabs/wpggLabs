@@ -5,7 +5,7 @@
 <!-- ════════════════════════════════════════════════════════════════════════ -->
 
 <a href="https://wpgglabs.is-a.dev">
-  <img src="./assets/banner.svg" width="100%" alt="Windows PowerShell — wpggLabs · bootstrapper · local-first software · New York" />
+  <img src="./assets/banner.svg" width="100%" alt="Windows PowerShell — wpggLabs · hobbyist tinkerer · local-first software · New York" />
 </a>
 
 <p align="center">
@@ -21,17 +21,19 @@
 ```powershell
 PS C:\wpggLabs> Get-Bio | Format-List
 
-Role     : Solo bootstrapper — full-stack, no funding, no team
-Based    : New York
-Thesis   : Own the whole stack, ship it yourself, keep it local-first
-Building : Desktop studios · browser extensions · streaming tools
-Values   : No accounts · No cloud lock-in · No telemetry
-Loop     : Fast MVP -> real users -> polish -> product
+Who      : Hobbyist, tinkerer, professional starter-of-things
+NotA     : Startup, a "brand", or free for a "quick call"
+Why      : The thing didn't exist. Now it does. That's the whole pitch.
+Hours    : Nights + weekends + one 3am "just a tiny fix" (it was not tiny)
+Focus    : Local-first apps that live on MY machine, not your cloud
+ADHD     : Current idea gets boring the second a new idea exists. help.
+OCD      : Refactored working code because a variable name felt wrong
+Ships    : No accounts. No telemetry. No "sign up to continue". Ever.
 ```
 
 <!-- everything below the fold is regenerated on a schedule -->
 
-## `PS C:\wpggLabs> Get-Builds -Latest`
+## `PS C:\wpggLabs> Get-Builds | Where Status -eq "Actually Finished"`
 
 <!--BUILDS:START-->
 | | project | what it is | stack | live |
@@ -44,17 +46,17 @@ Loop     : Fast MVP -> real users -> polish -> product
 | 📚 | [`gitsule`](https://github.com/wpggLabs/gitsule) | A personal library for GitHub discoveries | `TypeScript` | — |
 <!--BUILDS:END-->
 
-<sub>🔒 Plus a deep bench of <b>private builds</b> — receipt &amp; dosing tools, NYC civic-data apps, ML / clip pipelines. Counted (never named) in the numbers below.</sub>
+<sub>🔒 There's a whole boneyard of <b>private repos</b> back there too — tools I built for one problem I had once, abandoned experiments, and a couple I won't show you until they stop embarrassing me. They still count in the numbers below. The numbers are very forgiving.</sub>
 
 <br/>
 
-## `PS C:\wpggLabs> Get-Languages`
+## `PS C:\wpggLabs> Get-Languages   # it's mostly TypeScript. i've made peace with it.`
 
 <img src="./assets/langs.svg" width="100%" alt="Aggregated language breakdown across every repo" />
 
 <br/>
 
-## `PS C:\wpggLabs> Get-Stack`
+## `PS C:\wpggLabs> Get-Stack   # tools i reach for at 2am`
 
 <!--STACK:START-->
 <p>
@@ -75,7 +77,7 @@ Loop     : Fast MVP -> real users -> polish -> product
 
 <br/>
 
-## `PS C:\wpggLabs> Get-Contributions -Animate`
+## `PS C:\wpggLabs> Get-Contributions   # exhibit A: i do not sleep`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wpggLabs/wpggLabs/output/github-contribution-grid-snake-dark.svg" />
@@ -85,7 +87,7 @@ Loop     : Fast MVP -> real users -> polish -> product
 
 <br/>
 
-## `PS C:\wpggLabs> Get-Telemetry`
+## `PS C:\wpggLabs> Get-Telemetry   # yes i track myself. no i don't track you.`
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=wpggLabs&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark&title_color=f2f2f2&icon_color=8a8a8a&text_color=c8c8c8&bg_color=0c0c0c" alt="Stats" />
@@ -101,10 +103,10 @@ Loop     : Fast MVP -> real users -> polish -> product
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/useful_%3E_flashy-0c0c0c?style=flat-square&labelColor=0c0c0c&color=f2f2f2" alt="useful > flashy" />
+  <img src="https://img.shields.io/badge/built_for_an_audience_of_one-0c0c0c?style=flat-square&labelColor=0c0c0c&color=f2f2f2" alt="built for an audience of one" />
 </p>
 <p align="center">
   <!--UPDATED:START-->
-<sub><code>last sync: 2026-07-05 13:04 UTC</code> — regenerated automatically by <a href=".github/workflows/profile.yml">profile.yml</a></sub>
+<sub><code>last sync: 2026-07-05 13:08 UTC</code> — regenerated automatically by <a href=".github/workflows/profile.yml">profile.yml</a></sub>
 <!--UPDATED:END-->
 </p>
