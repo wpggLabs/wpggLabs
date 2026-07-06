@@ -38,12 +38,12 @@ Ships    : No accounts. No telemetry. No "sign up to continue". Ever.
 <!--BUILDS:START-->
 | | project | what it is | stack | live |
 |:--:|:--|:--|:--|:--:|
+| 🌐 | [`wpgglabs.is-a.dev`](https://github.com/wpggLabs/wpgglabs.is-a.dev) | — | `TypeScript` | [↗](https://wpgglabs.vercel.app) |
 | 🛡️ | [`blockmaxxing`](https://github.com/wpggLabs/blockmaxxing) | a local-first browser extension that blocks stream-level (SSAI) Twitc… | `TypeScript` | [↗](https://wpgglabs.github.io/blockmaxxing/) |
 | ⚡ | [`live-ratings`](https://github.com/wpggLabs/live-ratings) | Real-time Twitch chat rating overlay for streamers, running on Cloudf… | `JavaScript` | [↗](https://live-ratings.wpgglabs.workers.dev) |
 | 🎬 | [`pdf2vid`](https://github.com/wpggLabs/pdf2vid) | Local-first desktop studio that turns PDFs into narrated read-along v… | `Rust` | [↗](https://wpgglabs.github.io/pdf2vid/) |
 | 🖼️ | [`muraldesk`](https://github.com/wpggLabs/muraldesk) | A local-first desktop mural layer | `JavaScript` | [↗](https://wpgglabs.github.io/muraldesk/) |
 | 🗒️ | [`nothi`](https://github.com/wpggLabs/nothi) | — | `TypeScript` | — |
-| 📚 | [`gitsule`](https://github.com/wpggLabs/gitsule) | A personal library for GitHub discoveries | `TypeScript` | — |
 <!--BUILDS:END-->
 
 <sub>🔒 There's a whole boneyard of <b>private repos</b> back there too — tools I built for one problem I had once, abandoned experiments, and a couple I won't show you until they stop embarrassing me. They still count in the numbers below. The numbers are very forgiving.</sub>
@@ -107,6 +107,6 @@ Ships    : No accounts. No telemetry. No "sign up to continue". Ever.
 </p>
 <p align="center">
   <!--UPDATED:START-->
-<sub><code>last sync: 2026-07-05 13:09 UTC</code> — regenerated automatically by <a href=".github/workflows/profile.yml">profile.yml</a></sub>
+<sub><code>last sync: 2026-07-06 09:13 UTC</code> — regenerated automatically by <a href=".github/workflows/profile.yml">profile.yml</a></sub>
 <!--UPDATED:END-->
 </p>
