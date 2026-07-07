@@ -96,7 +96,7 @@ Ships    : No accounts. No telemetry. No "sign up to continue". Ever.
 
 <p align="center">
   <!--STATS:START-->
-<code>8</code> public repos &nbsp;·&nbsp; <code>+9</code> private builds &nbsp;·&nbsp; <code>1</code> star &nbsp;·&nbsp; <code>10</code> languages in rotation
+<code>7</code> public repos &nbsp;·&nbsp; <code>+10</code> private builds &nbsp;·&nbsp; <code>1</code> star &nbsp;·&nbsp; <code>10</code> languages in rotation
 <!--STATS:END-->
 </p>
 
@@ -107,6 +107,6 @@ Ships    : No accounts. No telemetry. No "sign up to continue". Ever.
 </p>
 <p align="center">
   <!--UPDATED:START-->
-<sub><code>last sync: 2026-07-06 09:13 UTC</code> — regenerated automatically by <a href=".github/workflows/profile.yml">profile.yml</a></sub>
+<sub><code>last sync: 2026-07-07 08:46 UTC</code> — regenerated automatically by <a href=".github/workflows/profile.yml">profile.yml</a></sub>
 <!--UPDATED:END-->
 </p>
