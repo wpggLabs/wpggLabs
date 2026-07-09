@@ -38,11 +38,11 @@ Ships    : No accounts. No telemetry. No "sign up to continue". Ever.
 <!--BUILDS:START-->
 | | project | what it is | stack | live |
 |:--:|:--|:--|:--|:--:|
+| 🖼️ | [`muraldesk`](https://github.com/wpggLabs/muraldesk) | A local-first desktop mural layer | `JavaScript` | [↗](https://wpgglabs.github.io/muraldesk/) |
+| 🎬 | [`pdf2vid`](https://github.com/wpggLabs/pdf2vid) | Local-first desktop studio that turns PDFs into narrated read-along v… | `Rust` | [↗](https://wpgglabs.github.io/pdf2vid/) |
 | 🌐 | [`wpgglabs.is-a.dev`](https://github.com/wpggLabs/wpgglabs.is-a.dev) | — | `TypeScript` | [↗](https://wpgglabs.vercel.app) |
 | 🛡️ | [`blockmaxxing`](https://github.com/wpggLabs/blockmaxxing) | a local-first browser extension that blocks stream-level (SSAI) Twitc… | `TypeScript` | [↗](https://wpgglabs.github.io/blockmaxxing/) |
 | ⚡ | [`live-ratings`](https://github.com/wpggLabs/live-ratings) | Real-time Twitch chat rating overlay for streamers, running on Cloudf… | `JavaScript` | [↗](https://live-ratings.wpgglabs.workers.dev) |
-| 🎬 | [`pdf2vid`](https://github.com/wpggLabs/pdf2vid) | Local-first desktop studio that turns PDFs into narrated read-along v… | `Rust` | [↗](https://wpgglabs.github.io/pdf2vid/) |
-| 🖼️ | [`muraldesk`](https://github.com/wpggLabs/muraldesk) | A local-first desktop mural layer | `JavaScript` | [↗](https://wpgglabs.github.io/muraldesk/) |
 | 🗒️ | [`nothi`](https://github.com/wpggLabs/nothi) | — | `TypeScript` | — |
 <!--BUILDS:END-->
 
@@ -96,7 +96,7 @@ Ships    : No accounts. No telemetry. No "sign up to continue". Ever.
 
 <p align="center">
   <!--STATS:START-->
-<code>7</code> public repos &nbsp;·&nbsp; <code>+10</code> private builds &nbsp;·&nbsp; <code>1</code> star &nbsp;·&nbsp; <code>10</code> languages in rotation
+<code>8</code> public repos &nbsp;·&nbsp; <code>+10</code> private builds &nbsp;·&nbsp; <code>1</code> star &nbsp;·&nbsp; <code>19</code> languages in rotation
 <!--STATS:END-->
 </p>
 
@@ -107,6 +107,6 @@ Ships    : No accounts. No telemetry. No "sign up to continue". Ever.
 </p>
 <p align="center">
   <!--UPDATED:START-->
-<sub><code>last sync: 2026-07-08 07:42 UTC</code> — regenerated automatically by <a href=".github/workflows/profile.yml">profile.yml</a></sub>
+<sub><code>last sync: 2026-07-09 08:54 UTC</code> — regenerated automatically by <a href=".github/workflows/profile.yml">profile.yml</a></sub>
 <!--UPDATED:END-->
 </p>
