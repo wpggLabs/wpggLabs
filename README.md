@@ -1,15 +1,13 @@
-<a href="https://wpgglabs.is-a.dev">
-  <img src="./assets/banner.svg" width="100%" alt="Windows PowerShell — wpggLabs · hobbyist tinkerer · local-first software · New York" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
+  <img src="./assets/hero-dark.svg" width="100%" alt="wpggLabs — i build tools for an audience of one. local-first, no accounts, no telemetry." />
+</picture>
 
 <p align="center">
-  <a href="https://wpgglabs.is-a.dev">wpgglabs.is-a.dev</a>
-  &nbsp;·&nbsp;
-  <a href="https://twitter.com/wpggLabs">@wpggLabs</a>
-  &nbsp;·&nbsp;
+  <a href="https://wpgglabs.is-a.dev">is-a.dev</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://twitter.com/wpggLabs">x</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="mailto:wpgglabs@gmail.com">email</a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/built_for_an_audience_of_one-0c0c0c?style=flat-square&labelColor=0c0c0c&color=f2f2f2" alt="built for an audience of one" />
 </p>
