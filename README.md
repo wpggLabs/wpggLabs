@@ -60,8 +60,8 @@ Ships    : No accounts. No telemetry. No "sign up to continue". Ever.
 
 <!--STACK:START-->
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-0c0c0c?style=flat-square&logo=javascript&logoColor=f2f2f2&labelColor=0c0c0c" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-0c0c0c?style=flat-square&logo=typescript&logoColor=f2f2f2&labelColor=0c0c0c" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-0c0c0c?style=flat-square&logo=javascript&logoColor=f2f2f2&labelColor=0c0c0c" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-0c0c0c?style=flat-square&logo=python&logoColor=f2f2f2&labelColor=0c0c0c" alt="Python" />
   <img src="https://img.shields.io/badge/Rust-0c0c0c?style=flat-square&logo=rust&logoColor=f2f2f2&labelColor=0c0c0c" alt="Rust" />
   <img src="https://img.shields.io/badge/React-0c0c0c?style=flat-square&logo=react&logoColor=f2f2f2&labelColor=0c0c0c" alt="React" />
@@ -96,7 +96,7 @@ Ships    : No accounts. No telemetry. No "sign up to continue". Ever.
 
 <p align="center">
   <!--STATS:START-->
-<code>8</code> public repos &nbsp;·&nbsp; <code>+10</code> private builds &nbsp;·&nbsp; <code>1</code> star &nbsp;·&nbsp; <code>19</code> languages in rotation
+<code>8</code> public repos &nbsp;·&nbsp; <code>+11</code> private builds &nbsp;·&nbsp; <code>1</code> star &nbsp;·&nbsp; <code>19</code> languages in rotation
 <!--STATS:END-->
 </p>
 
@@ -107,6 +107,6 @@ Ships    : No accounts. No telemetry. No "sign up to continue". Ever.
 </p>
 <p align="center">
   <!--UPDATED:START-->
-<sub><code>last sync: 2026-07-10 08:44 UTC</code> — regenerated automatically by <a href=".github/workflows/profile.yml">profile.yml</a></sub>
+<sub><code>last sync: 2026-07-11 07:21 UTC</code> — regenerated automatically by <a href=".github/workflows/profile.yml">profile.yml</a></sub>
 <!--UPDATED:END-->
 </p>
