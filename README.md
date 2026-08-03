@@ -1,15 +1,11 @@
 # wpggLabs
 
-## SMALL SOFTWARE.
-## UNREASONABLE ATTENTION TO DETAIL.
+small software. unreasonable attention to detail.
 
-Local-first tools, browser extensions, mobile apps, and automation systems.
+i build local-first tools, browser extensions, mobile apps, and automation systems.
 
-Built because the existing option was annoying, expensive, or required an account for no reason.
+usually because the existing option was annoying, expensive, or required an account for no reason.
 
----
+not a startup. still has a backlog.
 
-**NEW YORK**  
-**NOT A STARTUP. STILL HAS A BACKLOG.**
-
-[WEBSITE](https://wpgglabs.github.io/) · [CITY OF PROJECTS](https://wpgglabs.is-a.dev/) · [EMAIL](mailto:wpgglabs@gmail.com)
+new york · [website](https://wpgglabs.github.io/) · [x](https://x.com/wpggLabs) · [email](mailto:wpgglabs@gmail.com)
