@@ -1,16 +1,15 @@
-## Hi there 👋
+# wpggLabs
 
-<!--
-**wpggLabs/wpgglabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## SMALL SOFTWARE.
+## UNREASONABLE ATTENTION TO DETAIL.
 
-Here are some ideas to get you started:
+Local-first tools, browser extensions, mobile apps, and automation systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Built because the existing option was annoying, expensive, or required an account for no reason.
+
+---
+
+**NEW YORK**  
+**NOT A STARTUP. STILL HAS A BACKLOG.**
+
+[WEBSITE](https://wpgglabs.github.io/) · [CITY OF PROJECTS](https://wpgglabs.is-a.dev/) · [EMAIL](mailto:wpgglabs@gmail.com)
